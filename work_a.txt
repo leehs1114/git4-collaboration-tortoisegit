@@ -7,3 +7,4 @@ test msg conflict resolved by kimah
 
 my branch-na202da 1
 my branch-na202da 2
+my branch-na202da 3
